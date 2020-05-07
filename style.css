@@ -136,7 +136,7 @@ nav{
 /*Hero Photography*/
 .Hero{
   position: relative;
-  background-image: url('Png files/Portfolio.png');
+  background-image: url('Portfolio.png');
   height: 920px;
   background-position: center;
   font-family: 'Montserrat';
@@ -258,7 +258,7 @@ opacity: 0;
 }
 .About-Me{
   position: relative;
-  background-image: url('Png files/About.png');
+  background-image: url('About.png');
   background-size: cover;
   height: 1000px;
   background-position: center;
